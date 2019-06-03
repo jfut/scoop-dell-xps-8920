@@ -10,5 +10,5 @@ scoop bucket add dell-xps-8920 https://github.com/jfut/scoop-dell-xps-8920.git
 
 # Official buckets
 
-- [main bucket](https://github.com/lukesampson/scoop)
+- [main bucket](https://github.com/ScoopInstaller/Main)
 - [extras bucket](https://github.com/lukesampson/scoop-extras)
